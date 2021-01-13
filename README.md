@@ -14,8 +14,6 @@ Here you can find a short description of main directories and it's content
 ## Project Features
 - framework follows page object pattern
 - logger has been implemented in each step of test cases, e.g.
-
-![Logs screenshot](https://raw.githubusercontent.com/startrug/phptravels-selenium-py/screenshots/logger.png "Logs screenshot")
 - the ability to easily generate legible and attractive test reports using Allure (for more look [Generate Test Report](README.md#generate-test-report) section below)
 - tests can be run on popular browsers - Chrome and Firefox are preconfigured in DriverFactory class and both can be select in [conftest.py](tests/conftest.py), e.g.
 ```
